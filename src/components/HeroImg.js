@@ -14,7 +14,7 @@ const HeroImg = () => {
             <h1>&lt;Developer/&gt;</h1>
             <div>
                 <Link to="/project" className="btn">Projects</Link>
-                <Link to="/contact" className="btn btn-light">Contact</Link>
+                <Link to="https://drive.google.com/file/d/1F8vxMq-zj9H5b0VR7NHDbjENnsmMxZ6p/view?usp=drivesdk" target="_blank" className="btn btn-light">Resume</Link>
             </div>
         </div>
 
